@@ -48,7 +48,7 @@ function App() {
                 <Tarjeta />
               </div>
               <div>
-              <button className='github' role="button" href=""><AiFillGithub /> Ir a mi Github</button>
+              <a href="https://github.com/" target="_blank"><button className='github' role="button" ><AiFillGithub /> Ir a mi Github</button></a>
               </div>
               </center>
             </Route>
